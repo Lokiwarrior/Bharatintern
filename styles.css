@@ -1,0 +1,59 @@
+
+body, h1, h2, h3, p, label, input, button {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4ff55;
+    color: #fcfcfc;
+}
+/*Header*/
+header {
+    text-align: center;
+    color: #ccc;
+    background-color:#ff8623 ;
+    padding: 40px 0;
+    color: #fcfcfc;
+}
+
+/*main sections */
+section {
+    margin: 30px 20px;
+    background-color:#ccc ;
+    background-color:#ccc ;
+    padding: 30px;
+    border-radius: 5px;
+    background-color:#ff8623 ;
+    box-shadow: 0 4px 6px #ccc );
+}
+
+/*footer */
+footer {
+    text-align: center;
+    background-color:#ff8623;
+    padding: 10px;
+    color: #ecf0f1;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* input and button */
+input, button {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ccc;
+    color: #fcfcfc;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:#ccc;
+}
